@@ -1,0 +1,2 @@
+# EasyCollins
+Collins English Dictionary
